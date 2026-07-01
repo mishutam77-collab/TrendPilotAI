@@ -1,1 +1,1 @@
-# TrendMihaAI
+# TrendPilotAI
